@@ -1,5 +1,5 @@
 This set of test helpers provides functionality similar to
-[contest](github.com/citrusbyte/contest), but for minitest. The code itself
+[contest](https://github.com/citrusbyte/contest), but for minitest. The code itself
 started from [this gist from Ryan Smith](https://gist.github.com/839034), and
 then I added miscellaneous things that other people suggested.
 
